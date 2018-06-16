@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1528939821 source:c:\users\arnon\downloads\projects\trab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funções.h"
+	"Menus.h"
+
+1528939109 c:\users\arnon\downloads\projects\trab 3\funções.h
+
+1528943493 c:\users\arnon\downloads\projects\trab 3\menus.h
+
+1529082823 source:c:\users\arnon\downloads\codeblocks\projects\trab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"Funções.h"
+	"Menus.h"
+
+1529082617 c:\users\arnon\downloads\codeblocks\projects\trab 3\funções.h
+
+1529083134 c:\users\arnon\downloads\codeblocks\projects\trab 3\menus.h
+
+1529070659 source:c:\code blocks\projects\trab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"Funções.h"
+	"Menus.h"
+
+1529075247 c:\code blocks\projects\trab 3\funções.h
+
+1529073839 c:\code blocks\projects\trab 3\menus.h
+
+1529109937 source:c:\users\lu\desktop\trab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"Funções.h"
+	"Menus.h"
+
+1529106934 c:\users\lu\desktop\trab 3\funções.h
+
+1529069566 c:\users\lu\desktop\trab 3\menus.h
+
+1529109937 source:c:\users\lu\desktop\trabalho 3\trab 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<windows.h>
+	"Funções.h"
+	"Menus.h"
+
+1529116397 c:\users\lu\desktop\trabalho 3\trab 3\funções.h
+
+1529069566 c:\users\lu\desktop\trabalho 3\trab 3\menus.h
+
